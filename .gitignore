@@ -1,4 +1,5 @@
-
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
 .ipynb_checkpoints/Untitled1-checkpoint.ipynb
 .ipynb_checkpoints/Python fundamentals-checkpoint.ipynb
 Scratch.ipynb
