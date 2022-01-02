@@ -1,47 +1,8 @@
+data/
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
-.ipynb_checkpoints/Untitled1-checkpoint.ipynb
-.ipynb_checkpoints/Python fundamentals-checkpoint.ipynb
 Scratch.ipynb
-.ipynb_checkpoints/Scratch-checkpoint.ipynb
-.ipynb_checkpoints/Numpy Fundamentals-checkpoint.ipynb
-.ipynb_checkpoints/Numpy Fundamentals-checkpoint.ipynb
-.ipynb_checkpoints/Numpy Fundamentals-checkpoint.ipynb
-.ipynb_checkpoints/Numpy Fundamentals-checkpoint.ipynb
-.ipynb_checkpoints/Numpy Fundamentals-checkpoint.ipynb
-.ipynb_checkpoints/Numpy Fundamentals-checkpoint.ipynb
-.ipynb_checkpoints/Numpy Fundamentals-checkpoint.ipynb
-.ipynb_checkpoints/Numpy Fundamentals-checkpoint.ipynb
-.ipynb_checkpoints/Numpy Fundamentals-checkpoint.ipynb
-.ipynb_checkpoints/Numpy Fundamentals-checkpoint.ipynb
-.ipynb_checkpoints/Numpy Fundamentals-checkpoint.ipynb
-.ipynb_checkpoints/Numpy Fundamentals-checkpoint.ipynb
-.ipynb_checkpoints/Numpy Fundamentals-checkpoint.ipynb
-.ipynb_checkpoints/Pandas_Fundamentals-checkpoint.ipynb
-.ipynb_checkpoints/Pandas Exercises - Tips-checkpoint.ipynb
-.ipynb_checkpoints/Gapminder Exercises-checkpoint.ipynb
-.ipynb_checkpoints/Tips Exercises-checkpoint.ipynb
-.ipynb_checkpoints/Pandas_Fundamentals-checkpoint.ipynb
-.ipynb_checkpoints/Pandas_Fundamentals-checkpoint.ipynb
-.ipynb_checkpoints/Pandas_Fundamentals-checkpoint.ipynb
-.ipynb_checkpoints/Web Scraping-Requests-BS4-checkpoint.ipynb
-.ipynb_checkpoints/Numpy fundamentals part 1-checkpoint.ipynb
-.ipynb_checkpoints/Pandas_Fundamentals-checkpoint.ipynb
-.ipynb_checkpoints/Pandas_Fundamentals-checkpoint.ipynb
-.ipynb_checkpoints/Matplotlib_Introduction-checkpoint.ipynb
-.ipynb_checkpoints/Pandas_Fundamentals-checkpoint.ipynb
-.ipynb_checkpoints/Pandas_Fundamentals-checkpoint.ipynb
-.ipynb_checkpoints/Pandas_Fundamentals-checkpoint.ipynb
-.ipynb_checkpoints/Pandas_Fundamentals-checkpoint.ipynb
-.ipynb_checkpoints/Python Fundamentals-3-Data Structures-checkpoint.ipynb
-.ipynb_checkpoints/Python Fundamentals-3-Data Structures-checkpoint.ipynb
 email_credentials.json
-.ipynb_checkpoints/Python Fundamentals-3-Data Structures-checkpoint.ipynb
-files/.ipynb_checkpoints/2017_Alabama_v_LSU-checkpoint.json
-.ipynb_checkpoints/Python Fundamentals-3-Data Structures-checkpoint.ipynb
-.ipynb_checkpoints/Python Fundamentals-3-Data Structures-checkpoint.ipynb
-.ipynb_checkpoints/Python Fundamentals-3-Data Structures-checkpoint.ipynb
-.ipynb_checkpoints/Python fundamentals-2-checkpoint.ipynb
 aisles.csv
 departments.csv
 order_products__prior.csv
