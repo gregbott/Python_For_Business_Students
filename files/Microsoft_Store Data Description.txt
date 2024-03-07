@@ -1,0 +1,11 @@
+Content
+
+    Name: Name of the app.
+    Rating: Rating for the app.
+    No of People Rated : No of people who rated the app.
+    Category : Category of the app.
+    Date. : Date when it is posted.
+    Price. : Price of the app.
+
+
+Source: https://www.kaggle.com/vishnuvarthanrao/windows-store
