@@ -12,3 +12,7 @@ products.csv
 Untitled*.*
 files/ILS_2019_on.csv.gz
 info.json
+
+# pixi environments
+.pixi
+*.egg-info

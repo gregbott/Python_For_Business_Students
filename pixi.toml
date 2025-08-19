@@ -1,0 +1,12 @@
+[workspace]
+authors = ["Gregory Bott <greg.bott@ua.edu>"]
+channels = ["conda-forge"]
+name = "Python_For_Business_Students"
+platforms = ["linux-64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+marimo = ">=0.14.17,<0.15"
+polars = ">=1.32.3,<2"
