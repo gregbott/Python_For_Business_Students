@@ -1,10 +1,7 @@
 import marimo
 
-__generated_with = "0.15.2"
-app = marimo.App(
-    width="medium",
-    layout_file="layouts/mis501-conditionals.grid.json",
-)
+__generated_with = "0.14.17"
+app = marimo.App(width="medium")
 
 
 @app.cell
@@ -28,7 +25,7 @@ def _(mo):
     ## Learning Objectives
     By the end of this lesson, students will be able to:
 
-    - Master all forms of conditional statements in Python
+    - Master all forms of conditional statements in Python!
     - Understand advanced conditional patterns and techniques
     - Apply functional programming concepts with conditionals
     - Use modern Python features for conditional logic
